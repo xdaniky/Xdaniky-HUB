@@ -8,7 +8,7 @@ if Advertisement then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/LANJUTAN"))()
 end
 local StartTime = tick()
-local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.G-Hub-Games-List"))()
+local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/GAMES"))()
 
 local ScreenGui = Instance.new("ScreenGui")
 if syn and syn.protect_gui then
