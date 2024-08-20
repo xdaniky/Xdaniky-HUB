@@ -1,6 +1,6 @@
 
 repeat task.wait() until game:IsLoaded()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/Extras/Global"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/NAME"))()
 if KeySystem then
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/GUI'))()
 end
