@@ -27,7 +27,7 @@ ImageLabel.BackgroundTransparency = 1
 ImageLabel.Position = UDim2.new(0.5, -(303 / 2), 0.5, -(263 / 2))
 ImageLabel.Rotation = 0
 ImageLabel.Size = UDim2.new(0, 303, 0, 263)
-ImageLabel.Image = "rbxassetid://2126661079"
+ImageLabel.Image = "rbxassetid://9941621311"
 ImageLabel.ImageTransparency = 1
 
 for Index = 1, 50, 2 do
