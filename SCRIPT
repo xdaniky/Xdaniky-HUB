@@ -27,7 +27,7 @@ ImageLabel.BackgroundTransparency = 1
 ImageLabel.Position = UDim2.new(0.5, -(303 / 2), 0.5, -(263 / 2))
 ImageLabel.Rotation = 0
 ImageLabel.Size = UDim2.new(0, 303, 0, 263)
-ImageLabel.Image = "rbxassetid://9941621311"
+ImageLabel.Image = "rbxassetid://898517110"
 ImageLabel.ImageTransparency = 1
 
 for Index = 1, 50, 2 do
@@ -54,7 +54,7 @@ local Gang = Instance.new("BindableFunction")
 function Gang.OnInvoke(v)
 	if v == "Yes" then
 		Copy()
-		VG.SendNotification("Discord", "Discord Link Copying Successful", "rbxassetid://8429081004", 15)
+		VG.SendNotification("Discord", "Discord Link Copying Successful", "rbxassetid://898517110", 15)
 	end
 end
 
@@ -69,7 +69,7 @@ local Gang = Instance.new("BindableFunction")
 function Gang.OnInvoke(v)
 	if v == "Yes" then
 		Copy()
-		VG.SendNotification("FOLLOW XDANIKYY", "Copying of XDANIKYY successful", "rbxassetid://8429081004", 15)
+		VG.SendNotification("FOLLOW XDANIKYY", "Copying of XDANIKYY successful", "rbxassetid://898517110", 15)
 	end
 end
 
