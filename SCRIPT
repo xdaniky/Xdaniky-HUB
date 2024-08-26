@@ -1,6 +1,9 @@
 
 repeat task.wait() until game:IsLoaded()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/NAME"))()
+if KeySystem then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/GUI'))()
+end
 if Advertisement then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/xdaniky/Xdaniky-HUB/main/LANJUTAN"))()
 end
